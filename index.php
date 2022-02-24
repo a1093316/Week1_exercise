@@ -9,7 +9,7 @@
 	$j = 20;
 	echo $i+$j;
 	echo "<br/>";
-	echo date("Y, M, D");
+	echo date("Y, m, d");
 ?>
 
 </body>
