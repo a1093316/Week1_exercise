@@ -4,11 +4,11 @@
 
 <?php
 	echo "Hello php!";
-	echo "<br>";
+	echo "<br/>";
 	$i = 10;
 	$j = 20;
 	echo $i+$j;
-	echo "br";
+	echo "<br/>";
 	echo date("Y, M, D");
 ?>
 
